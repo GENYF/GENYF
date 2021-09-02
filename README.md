@@ -5,4 +5,6 @@
 * Live in Uiwang, Republic of Korea
 * Contact me, gnyf0915@gmail.com
 
+![Yeongbeom's github profile view](https://komarev.com/ghpvc/?username=GENYF)
+
 ![Yeongbeom's github stats](https://github-readme-stats.vercel.app/api?username=GENYF&count_private=true&show_icons=true)
