@@ -8,10 +8,10 @@
 
 ### Tech Stack
 - Arduino
+- Bootstrap
 - Flutter & Dart
 - Firebase
 - Figma
-- HTML5, CSS, JavaScript
 
 
 ### Contact Me
