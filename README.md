@@ -1,10 +1,10 @@
 # Hello! My name is Yeongbeom Song.
 
 ### Profile
-- Sunrin Internet High School Department of Software, 2017 ~ 2020
-- Ajou University Department of Software, 2020 ~
-- Software Maestro 12th
-- Live in Uiwang, Republic of Korea
+- Sunrin Internet High School Department of Software, 2017.03 ~ 2020.02
+- Ajou University Department of Software, 2020.03 ~
+- Software Maestro 12th, 2021.04 ~ 2021.12
+- EY Labs CEO and Frontend Developer, 2022.01 ~
 
 ### Tech Stack
 - Arduino
@@ -12,6 +12,12 @@
 - Flutter & Dart
 - Firebase
 - Figma
+
+
+### Certificate
+- Craftsman Information Processing
+- TOPCIT Level 3 
+- AWS Certificated Solutions Architect - Associate
 
 
 ### Contact Me
