@@ -4,12 +4,12 @@
 - Sunrin Internet High School Department of Software, 2017.03 ~ 2020.02
 - Ajou University Department of Software, 2020.03 ~
 - Software Maestro 12th, 2021.04 ~ 2021.12
-- EY Labs CEO and Frontend Developer, 2022.01 ~
+- EY Labs CEO and Frontend Engineer, 2022.01 ~
+- Sunrin Internet High School Part-time instructor, 2022.05 ~ 2022.07
 
 ### Tech Stack
 - Arduino
-- Bootstrap
-- Flutter & Dart
+- Flutter
 - Firebase
 - Figma
 
