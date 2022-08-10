@@ -5,7 +5,7 @@
 - Ajou University Department of Software Class of 20, 2020.03 ~
 - Software Maestro 12th, 2021.04 ~ 2021.12
 - EY Labs CEO and Frontend Engineer, 2022.01 ~
-- Sunrin Internet High School Part-time instructor, 2022.05 ~ 2022.07
+- Sunrin Internet High School Part-time instructor, 2022.05 ~ 2022.08
 
 ### Tech Stack
 - Arduino
@@ -15,7 +15,7 @@
 
 
 ### Certificate
-- Craftsman Information Processing
+- Craftsman Information ProcessingCancel changes
 - TOPCIT Level 3 
 - AWS Certificated Solutions Architect - Associate
 
