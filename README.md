@@ -23,6 +23,10 @@
 ### Contact Me
 - gnyf0915@gmail.com
 
+### More Info
+- https://www.rocketpunch.com/@GENYF
+- https://www.linkedin.com/in/GENYF
+
 ![Yeongbeom's github profile view](https://komarev.com/ghpvc/?username=GENYF)
 
 ![Yeongbeom's github stats](https://github-readme-stats.vercel.app/api?username=GENYF&count_private=true&show_icons=true)
