@@ -15,7 +15,7 @@
 
 
 ### Certificate
-- Craftsman Information ProcessingCancel changes
+- Craftsman Information Processing
 - TOPCIT Level 3 
 - AWS Certificated Solutions Architect - Associate
 
