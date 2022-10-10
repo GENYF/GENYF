@@ -9,6 +9,7 @@
 
 ### Tech Stack
 - Arduino
+- Bootstrap
 - Flutter
 - Firebase
 - Figma
