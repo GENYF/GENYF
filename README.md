@@ -5,9 +5,10 @@
 - Ajou University Department of Software Class of 20, 2020.03 ~
 - Software Maestro 12th, 2021.04 ~ 2022.01
 - Sunrin Internet High School Part-time instructor, 2022.05 ~ 2022.08
+- AllCareDX Frontend Engineer, 2023.02 ~ 2023.03
 - Software Maestro Expert, 2022.05 ~
 - EY Labs CEO and Frontend Engineer, 2022.04 ~
-- AllCareDX Frontend Engineer, 2023.02 ~
+
 
 ### Tech Stack
 - Arduino
