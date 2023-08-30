@@ -21,8 +21,9 @@
 
 ### Certificate
 - Craftsman Information Processing
-- TOPCIT - Test of Practical Competency in IT Level 3 
+- IITP TOPCIT - Test of Practical Competency in IT Level 3 
 - AWS Certificated Solutions Architect Associate
+- YBM IT COS Pro - Professional Coding Specialist Level 1
 
 
 ### Contact Me
