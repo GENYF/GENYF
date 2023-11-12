@@ -21,9 +21,9 @@
 
 ### Certificate
 - Craftsman Information Processing
-- IITP TOPCIT - Test of Practical Competency in IT Level 3 
-- AWS Certificated Solutions Architect Associate
-- YBM IT COS Pro - Professional Coding Specialist Level 1
+- AWS Certificated Solutions Architect Associate(SAA-C02)
+- IITP TOPCIT - Test of Practical Competency in IT Level 3(579)
+- YBM IT COS Pro - Professional Coding Specialist Level 1(C)
 
 ### Resume
 - http://yeongbeom.works
