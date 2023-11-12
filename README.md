@@ -25,6 +25,8 @@
 - AWS Certificated Solutions Architect Associate
 - YBM IT COS Pro - Professional Coding Specialist Level 1
 
+### Resume
+- http://yeongbeom.works
 
 ### Contact Me
 - gnyf0915@gmail.com
