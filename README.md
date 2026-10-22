@@ -1,41 +1,25 @@
-# Hello! My name is Yeongbeom Song.
+# Hi, I'm Yeongbeom Song 👋
 
-### Profile
-- Sunrin Internet High School Department of Software 112th, 2017.03 ~ 2020.02
-- Ajou University Department of Software Class of 20, 2020.03 ~
-- Software Maestro 12th, 2021.04 ~ 2022.01
-- Sunrin Internet High School Part-time instructor, 2022.05 ~ 2022.08
-- AllCareDX Frontend Engineer, 2023.02 ~ 2023.03
-- Software Maestro Expert, 2022.05 ~
-- EY Labs CEO and Frontend Engineer, 2022.04 ~
+Human-Centered Systems Researcher & Software Engineer
 
+### Education
+- Korea Advanced Institute of Science and Technology, M.S. in Computing Science and Engineering · Incoming
+- Ajou University, B.S. in Software and Computer Engineering · 2020.03 – 2027.02 (Expected)
+- Sunrin Internet High School, Software · 2017.03 – 2020.02
 
-### Tech Stack
-- Arduino
-- Bootstrap
-- Flutter
-- Firebase
-- Figma
-- Node.js
+### Experience
+- Ajou University · Coding Trainer / Teaching Assistant · 2026.08 – 2026.12 (Expected)
+- KAIST School of Computing, NCLab · Undergraduate Research Intern · 2026.06 – 2026.08
+- Defense Integrated Data Center · Security & System Operator (Military Service) · 2024.07 – 2026.02
+- Vestella Lab · Intern Researcher · 2023.12 – 2024.02, 2024.03 – 2024.05
+- EY Labs · Founder & Software Architect · 2022.04 – 2024.05
+- AllCareDX · Software Engineer · 2023.02 – 2023.03
+- Sunrin Internet High School · Adjunct Instructor · 2022.05 – 2022.07
 
+### Activities
+- Software Maestro Expert · Tutor, 13th & 14th cohorts · 2022.06 – 2023.08
+- Software Maestro · 12th cohort · 2021.02 – 2022.01
 
-### Certificate
-- Craftsman Information Processing
-- AWS Certificated Solutions Architect Associate(SAA-C02)
-- IITP TOPCIT - Test of Practical Competency in IT Level 3(579)
-- YBM IT COS Pro - Professional Coding Specialist Level 1(C)
-
-### Resume
-- http://yeongbeom.works
-
-### Contact Me
-- gnyf0915@gmail.com
-
-### More Info
-- https://www.rocketpunch.com/@GENYF
-- https://www.linkedin.com/in/GENYF
-
-
-![Yeongbeom's github profile view](https://komarev.com/ghpvc/?username=GENYF)
-
-![Yeongbeom's github stats](https://github-readme-stats.vercel.app/api?username=GENYF&count_private=true&show_icons=true)
+### Contact
+- Email: [gnyf0915@gmail.com](mailto:gnyf0915@gmail.com)
+- LinkedIn: [Yeongbeom](https://www.linkedin.com/in/yeongbeom/)
